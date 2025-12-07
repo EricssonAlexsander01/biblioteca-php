@@ -1,0 +1,21 @@
+PROJETO – Sistema de Biblioteca (Full Stack)
+Desenvolvido por: Ericsson Alexsander
+Tecnologias utilizadas: HTML, CSS, JavaScript, PHP e MySQL
+
+INSTRUÇÕES PARA EXECUÇÃO DO PROJETO
+
+1. Copie a pasta completa do projeto para o diretório:
+   C:\xampp\htdocs\
+
+2. Abra o phpMyAdmin e importe o arquivo:
+   biblioteca.sql
+
+3. Após a importação, acesse o sistema pelo navegador utilizando o endereço:
+   http://localhost/nomedapasta/
+
+4. Usuário para testes:
+   Email: teste@teste.com
+   Senha: (senha cadastrada no sistema)
+
+VÍDEO DE APRESENTAÇÃO DO SISTEMA:
+https://www.youtube.com/watch?v=QOsp2OsijjU
